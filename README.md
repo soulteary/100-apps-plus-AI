@@ -1,6 +1,8 @@
 # 100 APPs Plus AI
 
-Let 100 apps work with AI.
+> Make 100 App Cases +AI!
+
+![](./preview.jpg)
 
 No complicated work, just one click to start.
 
@@ -11,6 +13,7 @@ No complicated work, just one click to start.
 Use WordPress as a CMS to provide AI as RAG content query database or store AI generates data.
 
 - https://github.com/soulteary/dify-with-wordpress
+- https://github.com/soulteary/dify-simple-rag-with-wp
 
 Refs Project:
 
