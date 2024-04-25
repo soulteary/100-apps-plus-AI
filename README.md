@@ -10,9 +10,11 @@ No complicated work, just one click to start.
 
 Use WordPress as a CMS to provide AI as RAG content query database or store AI generates data.
 
+- https://github.com/soulteary/dify-with-wordpress
+
 Refs Project:
 
 - https://github.com/soulteary/docker-sqlite-wordpress
-
+- https://github.com/soulteary/docker-wp-api
 
 2. TODO...
