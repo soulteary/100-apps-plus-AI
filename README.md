@@ -20,4 +20,17 @@ Refs Project:
 - https://github.com/soulteary/docker-sqlite-wordpress
 - https://github.com/soulteary/docker-wp-api
 
-2. TODO...
+## Meilisearch
+
+Quickly complete lightweight RAG practice without having to deal with complex retrieval systems.
+
+- https://github.com/soulteary/dify-with-classical-search
+
+Refs Project:
+
+- https://github.com/soulteary/dify-simple-rag-with-wp
+
+
+## Keep adding
+
+^____^
