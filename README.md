@@ -31,6 +31,12 @@ Refs Project:
 - https://github.com/soulteary/dify-simple-rag-with-wp
 
 
+## Qwen VL
+
+Video Understanding: Qianwen Video Multimodal Model & Dify
+
+- https://github.com/soulteary/dify-with-qwen-vl
+
 ## Keep adding
 
 ^____^
