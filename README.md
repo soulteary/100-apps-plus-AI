@@ -25,6 +25,7 @@ Refs Project:
 Quickly complete lightweight RAG practice without having to deal with complex retrieval systems.
 
 - https://github.com/soulteary/dify-with-classical-search
+- https://github.com/soulteary/dify-with-ai-agent
 
 Refs Project:
 
